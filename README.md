@@ -14,14 +14,14 @@ Dynamic Grep runs locally on your computer. It does not require a cloud account,
 |---|---|
 | Product name | Dynamic Grep |
 | Technical name | DynamicGrep |
-| Publisher | DynamicsFree |
+| Publisher | Damien Farina |
 | Application type | Desktop application |
 | UI technology | Avalonia desktop GUI |
 | Supported platforms | Windows x64, Linux x64 |
 | Distribution format | Portable packages |
 | Primary purpose | Local search, extraction, analysis and reporting |
 | Data model | Local-first |
-| License | DynamicsFree |
+| License | Damien Farina |
 
 ---
 
@@ -389,8 +389,8 @@ To use the application:
 
 ## License
 
-License: Damien FARINA
+License: Damien Farina
 
-Copyright © Damien FARINA
+Copyright © Damien Farina
 
 All rights reserved unless explicitly stated otherwise.
